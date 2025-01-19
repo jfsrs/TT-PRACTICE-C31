@@ -8,6 +8,7 @@ Practica de portafolio de proyectos bootcamp c.31
 Estamos realiznado algunos ejercicios de practica para el funcionamento de los programas mencionados. 
 
 # Sprint 1
+Es una introduccion sobre los temas y algunos tips para usar python
 
 # Sprint 2
 
